@@ -1,0 +1,11 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/font/bootstrap-icons.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+button,a{
+    cursor: pointer;
+}
+.active{
+    display: flex !important;
+}
